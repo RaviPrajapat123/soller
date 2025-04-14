@@ -927,7 +927,7 @@ button:hover{
 
 .Recentangle15{
     position: absolute;
-    left: 0px;
+    left: -2px;
     bottom: -600px;
     width:370px;
     height: 700px;
@@ -939,7 +939,7 @@ button:hover{
     z-index: 1;
     position: absolute;
     top: 1020px;
-    left: 45px;
+    left: 39px;
     width: 290px;
     /* display: none; */
 }
@@ -957,7 +957,7 @@ button:hover{
 
 .Frame-4{
     position: absolute;
-    left: 260px;
+    left: 253px;
     top: 1202px;
     z-index: 2;
     /* display: none; */
