@@ -677,13 +677,13 @@ button:hover{
 
 
 
-@media (max-width:600px){
+@media (max-width:480px){
     .main{
         padding: 0px 0px;
     }
     .header{
         padding: 15px 15px;
-        width: 470px;
+        width: 350px;
         /* border: 2px solid; */
     }
     .header_right1{
