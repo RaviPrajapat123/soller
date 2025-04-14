@@ -5,7 +5,7 @@ function Section_3() {
                 <img className="Recentangle15" src="Rectangle 15.png"></img>
                 <img className="mobileApp" src="Mobile-App-Placeholder-1.png"></img>
                 <img className="Ellipse17-1" src="Ellipse 17 (1).png"></img>
-                <img className="Frame-4" src="Frame 4.png"></img>
+                {/* <img className="Frame-4" src="Frame 4.png"></img> */}
                 <img className="Ellipse-18-1" src="Ellipse 18 (1).png"></img>
             </div>
             <div className="section_3_right">
