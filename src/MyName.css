@@ -707,7 +707,7 @@ button:hover{
     .section_1{
         display: flex;
         width: 390px;
-        /* padding: 0px 80px; */
+        padding: 0px 0px;
         /* justify-content: space-between; */
         flex-direction: column-reverse;
 
@@ -715,8 +715,7 @@ button:hover{
     }
     .section_1 {
     
-    padding-left:  50px;
-    padding-right: 50px;
+
     width:385px;
     border: 2px solid;
    
@@ -725,11 +724,13 @@ button:hover{
     .section_1_right{
         width:100%;
         position: relative;
+            padding-left:  50px;
+    padding-right: 10px;
         /* border: 2px solid black; */
     }
     
     .rightImg{
-        /* width: 100%; */
+        width: 100%;
     }
     .ellipse2{
         position: absolute;
@@ -737,4 +738,62 @@ button:hover{
         right: 10px;
         top:50px
     }
+
+    
+.section_1_left{
+    /* border:  2px solid black; */
+    width: 100%;
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding: 0px 10px;
+    
+}
+
+.section_1_left h1{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.section_1_left_p1{
+    font-size: 20px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.section_1_left_btn {
+    width:250px ;
+    height: 60px;
+    border-radius: 40px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 55px;
+}
+
+.section_1_left_btn i{
+    padding-left: 10px;
+    color: rgb(144, 30, 30) ;
+}
+
+.section_1_left_p2{
+    margin-top: 60px;
+    font-size: 18px;
+    /* text-align: center; */
+}
+
+.section_1_left_img{
+   
+    margin-top: 30px;
+   
+    gap:10px
+}
+
+.section_1_left_img h4{
+    opacity: .7;
+}
 }
