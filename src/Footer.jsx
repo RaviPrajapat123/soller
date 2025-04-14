@@ -1,4 +1,4 @@
-function Footer(){
+function footer(){
     return(
         <div className="footer">
             <div className="footer_left">
@@ -13,7 +13,7 @@ function Footer(){
         </div>
     )
 }
-export default Footer
+export default footer
 
 
 
