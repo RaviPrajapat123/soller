@@ -932,16 +932,16 @@ button:hover{
     width:362px;
     height: 700px;
     z-index:-1;
-    /* display: none; */
+    display: none;
 }
 
 .mobileApp{
     z-index: 1;
     position: absolute;
-    top: 1220px;
+    top: 1120px;
     left: 39px;
     width: 290px;
-    /* display: none; */
+    display: none;
 }
 
 .Ellipse17-1{
