@@ -684,7 +684,7 @@ button:hover{
     .header{
         padding: 15px 15px;
         width: 385px;
-        border: 2px solid;
+        /* border: 2px solid; */
     }
     .header_right1{
         display: none;
@@ -725,7 +725,7 @@ button:hover{
         width:100%;
         position: relative;
             padding-left:  50px;
-    padding-right: 10px;
+    /* padding-right: 10px; */
         /* border: 2px solid black; */
     }
     
