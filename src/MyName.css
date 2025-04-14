@@ -959,7 +959,7 @@ button:hover{
     position: absolute;
     left: 245px;
     top: 1293px;
-    z-index: 2;
+    
     /* display: none; */
     width: 136px;
 }
