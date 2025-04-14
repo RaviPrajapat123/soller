@@ -673,6 +673,10 @@ button:hover{
 
 
 
+
+
+
+
 @media (max-width:600px){
     .main{
         padding: 0px 0px;
@@ -699,5 +703,14 @@ button:hover{
         font-size: 20px;
         /* width: 100px;
         height: 100px; */
+    }
+    .section_1{
+        display: flex;
+        width: 100vw;
+        /* padding: 0px 80px; */
+        /* justify-content: space-between; */
+        flex-direction: column-reverse;
+
+    
     }
 }
