@@ -716,13 +716,13 @@ button:hover{
     .section_1 {
     
     padding-left:  50px;
-    width: 100%;
+    width:385px;
     border: 2px solid;
    
 }
 
     .section_1_right{
-        width: 89vw;
+        width:100%;
         position: relative;
         /* border: 2px solid black; */
     }
