@@ -929,7 +929,7 @@ button:hover{
     position: absolute;
     left: -2px;
     bottom: -600px;
-    width:370px;
+    width:362px;
     height: 700px;
     z-index:-1;
     /* display: none; */
@@ -938,7 +938,7 @@ button:hover{
 .mobileApp{
     z-index: 1;
     position: absolute;
-    top: 1020px;
+    top: 1220px;
     left: 39px;
     width: 290px;
     /* display: none; */
@@ -958,10 +958,10 @@ button:hover{
 .Frame-4{
     position: absolute;
     left: 253px;
-    top: 1202px;
+    top: 1403px;
     z-index: 2;
     /* display: none; */
-    width: 138px;
+    width: 137px;
 }
 
 .Ellipse-18-1{
