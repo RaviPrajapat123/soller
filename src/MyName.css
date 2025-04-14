@@ -960,7 +960,7 @@ button:hover{
     left: 253px;
     top: 1403px;
     z-index: 2;
-    /* display: none; */
+    display: none;
     width: 137px;
 }
 
