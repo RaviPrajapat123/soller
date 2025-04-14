@@ -684,7 +684,7 @@ button:hover{
     .header{
         padding: 15px 15px;
         width: 390px;
-        /* border: 2px solid; */
+        border: 2px solid;
     }
     .header_right1{
         display: none;
@@ -706,11 +706,32 @@ button:hover{
     }
     .section_1{
         display: flex;
-        width: 100vw;
+        width: 390px;
         /* padding: 0px 80px; */
         /* justify-content: space-between; */
         flex-direction: column-reverse;
 
     
+    }
+    .section_1 {
+    
+    padding: 0px 50px;
+    border: 2px solid;
+   
+}
+
+    .section_1_right{
+        width: 69vw;
+        position: relative;
+        /* border: 2px solid black; */
+    }
+    
+    .rightImg{
+        /* width: 100%; */
+    }
+    .ellipse2{
+        position: absolute;
+        right: 1vw;
+        top:7vw
     }
 }
