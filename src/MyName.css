@@ -731,7 +731,8 @@ button:hover{
     }
     .ellipse2{
         position: absolute;
-        right: 1vw;
-        top:7vw
+        width: 40px;
+        right: 10px;
+        top:50px
     }
 }
