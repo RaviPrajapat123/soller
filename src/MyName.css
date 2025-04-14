@@ -939,8 +939,8 @@ button:hover{
     z-index: 1;
     position: absolute;
     top: 1120px;
-    left: 39px;
-    width: 285px;
+    left: 35px;
+    width: 280px;
     /* display: none; */
 }
 
@@ -957,8 +957,8 @@ button:hover{
 
 .Frame-4{
     position: absolute;
-    left: 248px;
-    top: 1300px;
+    left: 245px;
+    top: 1293px;
     z-index: 2;
     /* display: none; */
     width: 136px;
