@@ -783,6 +783,7 @@ button:hover{
 .section_1_left_p2{
     margin-top: 60px;
     font-size: 18px;
+    padding-left: 10px;
     /* text-align: center; */
 }
 
@@ -796,4 +797,124 @@ button:hover{
 .section_1_left_img h4{
     opacity: .7;
 }
+
+.section_2{
+    /* border: 2px solid ; */
+    padding: 0px 0px;
+     padding-top: 70px;
+     width: 385px;
+     padding-bottom: 80px;
+     border: 2px solid;
+     height: auto;
+     /* display: flex;
+     flex-direction: column;
+     justify-content: center; */
+}
+
+.section_2_title{
+    width: 100%;
+    height: 150px;
+    /* margin: 0px auto; */
+    /* border: 2px solid; */
+    /* display: flex; */
+    /* text-align: center; */
+}
+.section_2_title h1{
+    font-size: 40px;
+}
+
+.section_2_title span{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ea7a09;
+} 
+.section_2_title p{
+    font-size: 20px;
+    margin-top: 24px;
+    line-height: 1.4;
+}
+
+.section_2_img{
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    position: relative;
+    width: 90%;
+    background-color: white;
+    box-shadow:  0px 8px 20px rgb(0, 0, 0,0.1) ;
+    border-radius: 10px;
+    padding: 6px;
+    margin: 0px auto;
+    margin-top: 150px;
+    /* z-index: 10; */
+   
+}
+
+
+.section_2_img .section_2_img_1{
+    height: 20px;
+    /* width: 80vw; */
+    z-index: 1;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: white;
+    
+}
+.section_2_img .section_2_img_2{
+    z-index: 1;
+    
+}
+.Ellipse14{
+    /* width: 200px;
+    height: 700px; */
+    position: absolute;
+    top: -83px;
+  left: -19px;
+  width: 100px;
+  z-index: -30;
+    /* border-radius: 10%; */
+}
+
+.Ellipse14_16{
+    position: absolute;
+    top: -43px;
+  left: -7px;
+  z-index: -30;
+  width: 50px;
+  /* display: none; */
+}
+
+.Ellipse15{
+    position: absolute;
+    right: -19px;
+    top:20px;
+    z-index: -30;
+    width: 100px;
+    /* display: none; */
+}
+
+.Ellipse16{
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top: 109px;
+    right: -20px;
+    z-index: 2;
+}
+.Ellipse17{
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top:170px;
+    left:-17px;
+    z-index: 2;
+    /* display: none; */
+}
+
+.Ellipse18 {
+    display: none;
+}
+
+
+
 }
