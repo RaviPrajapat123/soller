@@ -14,7 +14,8 @@ function Header(){
             <button className="btn header_right1">Request a Quote <i className="ri-arrow-right-line header_right1"></i></button>
             <i  className="ri-menu-line headerMenu"></i>
         </div>
-    </div>)
+    </div>
+    )
 }
 
 export default Header

@@ -22,10 +22,10 @@ function App() {
         <Section_2/>
          <Section_3/>
         <Section_4/>
-        {/* <Section_5/>
+        <Section_5/>
         <Section_6/>
-        <Section_7/>
-        <Footerr/>   */}
+        {/* <Section_7/> */}
+        {/* <Footerr/>   */}
         </div>
         )
 
