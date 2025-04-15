@@ -1037,7 +1037,7 @@ button:hover{
     width: 385px;
     border: 2px solid ;
     padding: 0px 0px;
-    padding-top: 80px;
+    /* padding-top: 80px; */
     position: relative;
 }
 
@@ -1056,7 +1056,7 @@ button:hover{
 .section_4_right .Rectangle15_1{
     position: absolute;
     right: 0px;
-    top:0px;
+    top:-134px;
     width: 350px;
     z-index: -1;
 }
@@ -1067,13 +1067,13 @@ button:hover{
     width: 300px;
     height: 600px;
     left: 42px;
-    top: 61px;
+    top: -80px;
 }
 
 .section_4_right  .Ellipse_out{
     position: absolute;
     right: 21px;
-    top: 435px;
+    top: 293px;
     z-index: 200;
     width: 80px;
     
@@ -1255,6 +1255,7 @@ button:hover{
     /* border: 2px solid; */
    display: flex;
    flex-direction: column;
+   padding: 0px 20px;
 }
 
 .Section_6_right span{
@@ -1266,6 +1267,7 @@ button:hover{
 
 .Section_6_right h1{
     font-size: 30px;
+    text-align: center;
 }
 
 .Section_6_right p{
@@ -1274,18 +1276,31 @@ button:hover{
     line-height: 1.7;
 }
 
+.Section_6_right_footer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .Section_6_right_footer span{
     color: brown;
+    text-align: center;
+    font-size: 20px;
+    /* display: flex; */
+    /* flex-direction: row; */
+   
 }
 
 .Section_6_right_footer i{
     padding-left: 20px;
+    font-size: 20px;
 }
 
 .Section_6_right .Ellipse_4_1{
         position: absolute;
         right: 0px;
-        bottom: 0px;
+        bottom: 100px;
+        width: 200px;
 }
 
 
