@@ -932,7 +932,7 @@ button:hover{
     width:360px;
     height: 700px;
     z-index:-1;
-    /* display: none; */
+   
 }
 
 .mobileApp{
@@ -941,7 +941,7 @@ button:hover{
     top: 1120px;
     left: 35px;
     width: 280px;
-    /* display: none; */
+    
 }
 
 .Ellipse17-1{
@@ -951,8 +951,6 @@ button:hover{
   width: 60px ;
   left: 100px;
 
-  /* display: none; */
-  /* display: none; */
 }
 
 .Frame-4{
@@ -960,7 +958,7 @@ button:hover{
     left: 245px;
     top: 1293px;
     
-    /* display: none; */
+    
     width: 136px;
 }
 
