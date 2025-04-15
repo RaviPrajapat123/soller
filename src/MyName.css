@@ -1030,4 +1030,53 @@ button:hover{
     text-align: center;
 }
 
+.section_4{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    width: 385px;
+    border: 2px solid ;
+    padding: 0px 0px;
+    padding-top: 80px;
+    position: relative;
+}
+
+.section_4_left{
+
+    display: none;
+  
+}
+
+
+.section_4_right{
+  
+    width: 100%;
+    margin-top: 800px;
+}
+.section_4_right .Rectangle15_1{
+    position: absolute;
+    right: 0px;
+    top:0px;
+    width: 350px;
+    z-index: -1;
+}
+
+.section_4_right .Mobile_1{
+    position: absolute;
+    z-index: 10;
+    width: 300px;
+    height: 600px;
+    left: 42px;
+    top: 61px;
+}
+
+.section_4_right  .Ellipse_out{
+    position: absolute;
+    right: 21px;
+    top: 435px;
+    z-index: 200;
+    width: 80px;
+    
+}
+
 }
