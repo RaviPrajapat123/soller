@@ -577,7 +577,7 @@ button:hover{
 .Section_7{
     /* width: 99vw; */
     height: auto;
-    background-color: purple;
+    background-color: #7E22CE;
     position: relative;
     opacity: 0.9;
 }
@@ -717,7 +717,7 @@ button:hover{
     
 
     width:385px;
-    border: 2px solid;
+    /* border: 2px solid; */
    
 }
 
@@ -804,7 +804,7 @@ button:hover{
      padding-top: 70px;
      width: 385px;
      padding-bottom: 80px;
-     border: 2px solid;
+     /* border: 2px solid; */
      height: auto;
      /* display: flex;
      flex-direction: column;
@@ -921,7 +921,7 @@ button:hover{
     padding: 0px 20px;
     /* margin-top: 10px; */
     width: 385px;
-    border: 2px solid;
+    /* border: 2px solid; */
     padding-bottom: 180px;
 }
 
@@ -1033,7 +1033,7 @@ button:hover{
     /* flex-direction: column; */
     justify-content: space-between;
     width: 385px;
-    border: 2px solid ;
+    /* border: 2px solid ; */
     padding: 0px 0px;
     /* padding-top: 80px; */
     position: relative;
@@ -1070,10 +1070,10 @@ button:hover{
 
 .section_4_right  .Ellipse_out{
     position: absolute;
-    right: 21px;
+    right: 28px;
     top: 293px;
     z-index: 200;
-    width: 80px;
+    width: 77px;
     
 }
 
@@ -1083,9 +1083,10 @@ button:hover{
     width: 385px;
     /* margin-left: -80px; */
     margin-top: 700px;
-    border: 2px solid;
+    /* border: 2px solid; */
     height: auto;
     padding: 0px 0px;
+    padding-bottom: 30px;
     /* padding: 0px; */
     background-color: #581C87;
     opacity: .9;
@@ -1158,7 +1159,7 @@ button:hover{
     background-color: white;
     padding: 40px 20px;
     border-radius: 10px;
-    margin-left: 15px;
+    margin: 0px auto;
     transition: all ease 0.2s;
 }
 
@@ -1238,9 +1239,9 @@ button:hover{
     flex-direction: column;
     padding: 0px 0px;
     width: 385px;
-    border: 2px solid;
+    /* border: 2px solid; */
     /* align-items: center; */
-    gap: 100px;
+    gap: 70px;
 }
 
 .Section_6_leftImg{
@@ -1265,13 +1266,15 @@ button:hover{
 
 .Section_6_right h1{
     font-size: 30px;
+    margin-top: 10px;
     text-align: center;
 }
 
 .Section_6_right p{
     font-size: 23px;
     margin: 25px 0px;
-    line-height: 1.7;
+    text-align: center;
+    line-height: 1.3;
 }
 
 .Section_6_right_footer{
@@ -1279,6 +1282,7 @@ button:hover{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-bottom: 30px;
 }
 .Section_6_right_footer span{
     color: brown;
@@ -1295,11 +1299,121 @@ button:hover{
 }
 
 .Section_6_right .Ellipse_4_1{
-        position: absolute;
-        right: 0px;
-        bottom: 100px;
-        width: 200px;
+        
+        display: none;
 }
+
+
+.Section_7{
+    width: 385px;
+    height: auto;
+    background-color: #7E22CE;
+    position: relative;
+    /* border: 2px solid; */
+    opacity: 0.9;
+}
+
+.Section_7_header{
+    padding: 0px;
+    padding-top: 20px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    /* gap: 40px; */
+    /* border: 2px solid; */
+}
+
+.Section_7_header_left{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.Section_7_header_left span{
+   text-align: center;
+    font-size: 22px;
+}
+
+.Section_7_header_left h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 0px auto;
+}
+
+.Section_7_header_right{
+    width: 100%;
+    /* border:  2px solid; */
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.Ellipse_1{
+    display: none;
+}
+
+.Section_7_header_right button{
+    margin: 0px auto;
+}
+
+.Section_7_header_right p{
+    color: white;
+    margin:0px auto;
+    margin-top: 5px;
+}
+
+.Section_7 .main{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.Macbook{
+    width: 370px;
+    margin: 20px auto;
+}
+.Ellipse_2_3{
+    position: absolute;
+    bottom:  0;
+    left: -150px;
+    z-index: -1;
+    width: 300px;
+    
+}
+.Ellipse_3_1{
+    display: none;
+}
+
+
+.footer{
+    /* height: auto; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    width: 385px;
+    /* border: 2px solid; */
+    padding: 0px;
+    padding-top: 15px;
+    gap:15px
+}
+
+.footer_left{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 18px;
+}
+.footer_right{
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+}
+
+
+
 
 
 
